@@ -23,7 +23,7 @@ brew "zsh-autosuggestions"        ## zsh: auto suggest
 brew "zsh-completions"            ## zsh: completion
 
 # cask "alfred"
-cask "alt-tab"
+# cask "alt-tab"
 # cask "antigravity"
 # cask "appcleaner"
 # cask "chatgpt-atlas"
