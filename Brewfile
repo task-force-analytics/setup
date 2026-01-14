@@ -22,7 +22,7 @@ brew "zsh-syntax-highlighting"    ## zsh: syntax highlight
 brew "zsh-autosuggestions"        ## zsh: auto suggest
 brew "zsh-completions"            ## zsh: completion
 
-cask "alfred"
+# cask "alfred"
 cask "alt-tab"
 # cask "antigravity"
 # cask "appcleaner"
@@ -38,8 +38,8 @@ cask "google-chrome"
 # cask "karabiner-elements"
 # cask "microsoft-edge"
 cask "numi"
-# cask "raycast"
-cask "rectangle"
+cask "raycast"
+# cask "rectangle"
 # cask "slack"
 cask "visual-studio-code"
 # cask "visual-studio-code@insiders"
